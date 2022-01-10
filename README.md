@@ -25,7 +25,7 @@
 ## 🎯 Working On
 | Parth's Portfolio | Programs-and-Questions |
 | --- | --- |
-[![Parth's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ParthVighne&repo=Parth-Portfolio-Website)](https://github.com/ParthVighne/Parth-Portfolio-Website) | 
+| [![Programs-and-Questions](https://github-readme-stats.vercel.app/api/pin/?username=ParthVighne&repo=Programs-and-Questions)](https://github.com/ParthVighne/Programs-and-Questions) |
 
 ---
   
