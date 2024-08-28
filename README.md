@@ -3,8 +3,9 @@
 ---
 
 ### 🚀 About Me
-- I'm a 3rd-year B. Tech. (CSBS) student at School of Information Technology, RGPV.
+- I'm a 4th-year B. Tech. (CSBS) student at School of Information Technology, RGPV.
 - Passionate about Web Development & Machine Learning.
+- Working on MERN Projects. Can't wait to commit soon :)
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
