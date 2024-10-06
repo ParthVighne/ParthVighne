@@ -1,36 +1,19 @@
-### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Parth Vighne here!
+<h1 align="center">Hi 👋, I'm Parth Vighne</h1>
+<h3 align="center">- I'm a 4th-year B. Tech. (CSBS) student at School of Information Technology, RGPV. - Passionate about Web Development & Machine Learning. - Working on MERN Projects. Can't wait to commit soon :)</h3>
 
----
+- 🔭 I’m currently working on [Sorting Visualizer](https://parthvighne.github.io/Sorting-Visualiser/)
 
-### 🚀 About Me
-- I'm a 4th-year B. Tech. (CSBS) student at School of Information Technology, RGPV.
-- Passionate about Web Development & Machine Learning.
-- Working on MERN Projects. Can't wait to commit soon :)
-- Looking to collaborate with other developers. 
-- Learning more tools and technologies which are mentioned below to build big projects.
+- 🌱 I’m currently learning **MERN Stack, SQL, Python**
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/ParthVighne](https://github.com/ParthVighne)
 
-### 🧰 Toolbox
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/CPP-7AB5CF?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
-![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+- 📫 How to reach me **parthvighne@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/parthvighne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthvighne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-vighne-03b20a169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-vighne-03b20a169" height="30" width="40" /></a>
+</p>
 
-## 🎯 Working On
-| Parth's Portfolio | Programs-and-Questions |
-| --- | --- |
-[![Parth's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ParthVighne&repo=Parth-Portfolio-Website)](https://github.com/ParthVighne/Parth-Portfolio-Website) | [![Programs-and-Questions](https://github-readme-stats.vercel.app/api/pin/?username=ParthVighne&repo=Programs-and-Questions)](https://github.com/ParthVighne/Programs-and-Questions) |
-
----
-  
-## &#x1f4c8; My GitHub Stats
-| Parth's GitHub Stats | GitHub Streak |
-| --- | --- |
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthVighne&show_icons=true)](https://github.com/ParthVighne) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParthVighne)](https://github.com/ParthVighne) |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
